@@ -5,4 +5,5 @@
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   font-family: "Roboto", sans-serif;
+  text-align: -webkit-center;
 }
